@@ -1,0 +1,12 @@
+../Core/Src/motor.c:21:6:enable_global_interrupts	1
+../Core/Src/motor.c:33:6:Motor_Init	1
+../Core/Src/motor.c:71:6:Motor_SetSpeedM1	1
+../Core/Src/motor.c:85:6:Motor_SetSpeedM2	1
+../Core/Src/motor.c:99:6:Motor_SetSpeedM3	1
+../Core/Src/motor.c:113:6:Motor_SetSpeedM4	1
+../Core/Src/motor.c:136:6:updateSpeeds	1
+../Core/Src/motor.c:126:6:Motor_setSpeedAll	1
+../Core/Src/motor.c:142:6:Motor_getMotorsSpeed	1
+../Core/Src/motor.c:146:6:Motor_setRoll	1
+../Core/Src/motor.c:150:6:Motor_setPitch	1
+../Core/Src/motor.c:154:6:Motor_setYaw	1

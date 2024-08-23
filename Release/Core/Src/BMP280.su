@@ -1,0 +1,5 @@
+../Core/Src/BMP280.c:35:7:CalculateAltitude	8	static
+../Core/Src/BMP280.c:39:19:BMP280_SetUltraHighRes	32	static
+../Core/Src/BMP280.c:19:19:BMP280_Init	32	static
+../Core/Src/BMP280.c:52:19:BMP280_ReadCalibrationData	48	static
+../Core/Src/BMP280.c:76:19:ReadPressureAndCalculateAltitude	48	static

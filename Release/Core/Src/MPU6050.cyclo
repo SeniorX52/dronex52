@@ -1,0 +1,8 @@
+../Core/Src/MPU6050.c:23:6:ComputeAccelAngles	1
+../Core/Src/MPU6050.c:60:19:MPU6050_ReadAccel	2
+../Core/Src/MPU6050.c:31:6:MPU6050_CalculatePitchRoll	1
+../Core/Src/MPU6050.c:72:19:MPU6050_ReadGyro	2
+../Core/Src/MPU6050.c:84:19:MPU6050_WriteRegister	1
+../Core/Src/MPU6050.c:37:19:MPU6050_Init	4
+../Core/Src/MPU6050.c:88:19:MPU6050_ReadRegister	1
+../Core/Src/MPU6050.c:92:6:MPU6050_Calibrate	2
