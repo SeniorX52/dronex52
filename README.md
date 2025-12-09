@@ -3,9 +3,8 @@
 ## Overview
 
 DroneX52 is an advanced quadcopter developed using STM32, featuring PID control and a comprehensive suite of sensors. The drone is capable of being controlled via Bluetooth/WiFi (UART modules), and hand-motion using a smart glove.
-
-![image](https://github.com/user-attachments/assets/c8237768-28fb-40c5-9906-34585a34a85e)
-![image](https://github.com/user-attachments/assets/1054aa03-4c4f-4142-a464-7324aaa40f07)
+![Drone](https://github.com/user-attachments/assets/0a21ddc6-6a54-4499-8551-e6867ab20f76)
+<img width="607" height="675" alt="image" src="https://github.com/user-attachments/assets/49be5abd-2f25-4c3b-ba72-676fccf47509" />
 ![image](https://github.com/user-attachments/assets/2014607d-5fdd-4b82-bbad-2f5ebcaafe74)
 
 ## Features
